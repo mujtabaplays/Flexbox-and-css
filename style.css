@@ -1,0 +1,33 @@
+h1{
+    color:white;
+}
+
+/** {
+   border: solid;
+}
+**/
+
+h2,p{
+    text-align: center;
+    
+    
+}
+
+
+.mujtaba{
+    background-color: rebeccapurple;
+    display:flex;
+    justify-content:space-between ;
+}
+
+.grid{
+   display:flex;
+   flex-wrap:wrap;
+   justify-content:space-evenly ;
+   background-color:greenyellow
+}
+
+.Icons{
+   display:flex;
+   justify-content:flex-end; 
+}
